@@ -2,7 +2,7 @@
 
 A cinematic, single-file portfolio built with pure **HTML, CSS, and vanilla JavaScript**. No frameworks, no build tools — just one `index.html` file.
 
-🌐 **Live:** [jatinmor89.github.io/my-portfolio]([https://jatinmor89.github.io/Portfolio/])
+🌐 **Live:** ([https://jatinmor89.github.io/Portfolio/])
 
 ---
 
